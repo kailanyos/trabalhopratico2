@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+navbar-nav {
+    text-align: right;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+hr {
+    border-color: black;
+    opacity: 5 !important;
+}
+
+img {
+    width: 200px;
+    border-radius: 10%;
+}
+
+#ig {
+    width: 30px;
+}
+
+#git {
+    width: 30px;
+}
+
+#followers {
+    width: 30px;
+    margin-left: 90vh;
+}
+
