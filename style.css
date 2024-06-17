@@ -15,7 +15,7 @@ hr {
     opacity: 5 !important;
 }
 
-img {
+#fotoperf {
     width: 200px;
     border-radius: 10%;
 }
@@ -30,6 +30,23 @@ img {
 
 #followers {
     width: 30px;
-    margin-left: 90vh;
 }
 
+.testeazinho {
+    text-decoration: none;
+    color: black;
+}
+
+.testeazinho:hover {
+    color:  rgb(86, 86, 86);
+}
+
+#carrosel{
+    width: 700px;
+    height: 400px;
+}
+
+.imgcolegas{
+    object-fit: contain;
+    max-height: 200px;
+}
