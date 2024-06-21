@@ -1,0 +1,25 @@
+{
+    "repositorios":
+    [
+        {
+            "id": 0,
+            "nome": "Repositório 1:",
+            "descricao": "Um projeto escolar com layout responsivo utilizando Bootstrap. Escolhi montar um site de loja de guitarras.",
+            "url": "https://github.com/kailanyos/kikitunetrove"
+        },
+
+        {
+            "id": 1,
+            "nome": "Repositório 2:",
+            "descricao": "Um projeto escolar com layout responsivo utilizando Bootstrap, Java Script e JSON. Escolhi montar um site de catálogo de 3 filmes.",
+            "url": "https://github.com/kailanyos/movienight"
+        },
+
+        {
+            "id": 2,
+            "nome": "Repositório 3:",
+            "descricao": "Um projeto escolar com layout responsivo utilizando Bootstrap, Java Script e JSON. É este próprio projeto.",
+            "url": "https://github.com/kailanyos/trabalhopratico2"
+        }
+    ]
+}

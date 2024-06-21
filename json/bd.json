@@ -41,22 +41,25 @@
         {
             "id": 0,
             "nome": "Paloma Jasminie",
-            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEcr8UAjDHNJmDY1NhvX9UXdkTz7H2XSBvPw&s",
-            "url": "#"
+            "imagem": "/imgs/paloma.jpeg",
+            "url": "#",
+            "git": "https://github.com/palomajasminie"
         },
 
         {
             "id": 1,
             "nome": "Maria Fernanda",
-            "imagem": "https://s2-g1.glbimg.com/sGcCILaAM7zBv-Ly1YQKgiCwO08=/0x0:1495x1240/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/U/3/EvMSXuRCmppQT5WUtZqg/tim1971.jpg",
-            "url": "#"
+            "imagem": "/imgs/mafeee.jpeg",
+            "url": "#",
+            "git": "https://github.com/fegabrich"
         },
 
         {
             "id": 2,
             "nome": "Ana Luiza",
             "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQngEP1DsazaSQmIHPp-2AzwkukvxfKm1N0Gg&s",
-            "url": "#"
+            "url": "#",
+            "git": "https://github.com/analumoreirat"
         }
     ]
 }

@@ -50,3 +50,12 @@ hr {
     object-fit: contain;
     max-height: 200px;
 }
+
+.fb {
+    color: black;
+    text-decoration: none;
+}
+
+.fb:hover {
+    color: rgb(57, 57, 57);
+}
